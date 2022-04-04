@@ -1,0 +1,1 @@
+print("Hello! There are Oleg and Kirill")
